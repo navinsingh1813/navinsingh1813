@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/navinsingh1813/navinsingh1813/blob/main/Navin%20Github%20Banner.gif)
+![MasterHead](https://github.com/navinsingh1813/navinsingh1813/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Navin Kumar Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-eaekd.nitrocdn.com/CxTeoSPKdjdqTSxLEEGaKiGroHlKASqH/assets/images/optimized/rev-d765668/max/800/0*aA9QMzH-2pd4aIE7.gif">

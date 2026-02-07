@@ -37,10 +37,9 @@ I’ve developed a solid foundation in data analysis through coursework and prac
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nvins1813@gmail.com)
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navinsingh1813&show_icons=true&locale=en&layout=compact" alt="navinsingh1813" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navinsingh1813&show_icons=true&locale=en&layout=compact" alt="navinsingh1813" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinsingh1813&show_icons=true&locale=en" alt="navinsingh1813" /></p>
+```<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinsingh1813&show_icons=true&locale=en" alt="navinsingh1813" /></p>-->
 
 <!--
 **navinsingh1813/navinsingh1813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

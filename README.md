@@ -10,7 +10,7 @@ I’ve developed a solid foundation in data analysis through coursework and prac
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navinsingh1813&label=Profile%20views&color=0e75b6&style=flat" alt="navinsingh1813" /> </p>
 
-- 💼 **Aspiring Data Analyst**
+- 💼 **Data Analyst**
 
 - 🌱  *Microsoft Certified: Power BI Data Analyst Associate*
 

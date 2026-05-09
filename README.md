@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/navinsingh1813/navinsingh1813/blob/main/Github_Profile_Banner.gif)
 <h1 align="center">Hi 👋, I'm Navin Kumar Singh</h1>
-<p align= "Left"> Welcome to my GitHub profile! I'm a Microsoft Certified:Power BI Data Analyst with expertise in Microsoft Power BI, and SQL Server. My passion lies in transforming raw data into meaningful insights that help organizations make informed decisions and optimize performance."
+<p align= "Left"> Welcome to my GitHub profile! I'm a Microsoft Certified: Power BI Data Analyst with expertise in Microsoft Power BI, and SQL Server. My passion lies in transforming raw data into meaningful insights that help organizations make informed decisions and optimize performance."
 
 I’ve developed a solid foundation in data analysis through coursework and practical projects, particularly in Power BI, where I’m proficient in both Power BI Desktop and Power BI Service. My hands-on experience has equipped me to create dynamic, visually appealing dashboards, automate data processes, and deliver clear, data-driven recommendations. </p>
 

@@ -26,7 +26,7 @@ I’ve developed a solid foundation in data analysis through coursework and prac
 ## Projects
 
 - [Linkedin Job Analysis](): An analysis project providing comprehensive insights into business operations.
-- [Credit Card Analysis ](): Analyzed data to optimize operations and improve guest experience in the Financial sector.
+- [Credit Card Analysis ](https://github.com/navinsingh1813/Credit-Card-Customer-Transaction-Analysis): Analyzed data to optimize operations and improve guest experience in the Financial sector.
 - [Retail AB Analysis](): Analyzed marketing campaign effectiveness during festive seasons.
 
 
